@@ -222,7 +222,7 @@
 	"dependencies": {
 		"jsonc-parser": "^0.4.2",
 		"ftp": "^0.3.10",
-		"mkdirp": "^0.5.1",
+		"mkdirp": "^1.0.4",
 		"rimraf": "^2.6.2"
 	}
 }
